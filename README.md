@@ -21,7 +21,7 @@
 4)   Run application in Browser by hitting localhost/Jignasha or {ipaddress}/Jignasha
 
 # Input
-![img](https://github.com/jignasha86/Jignasha/blob/master/input.txt)
+![img](https://github.com/jignasha86/Jignasha/blob/master/input.png)
 
 # Expected output
 ![img](https://github.com/jignasha86/Jignasha/blob/master/output.png)
